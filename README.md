@@ -3,12 +3,12 @@
 > **The only line-reversing tool powered by the Rust(🦀) programming language(🚀)**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/language-Rust(🦀)-🚀-🔥?style=for-the-badge" alt="rust">
-  <img src="https://img.shields.io/badge/memory-safe-✅-🦀?style=for-the-badge" alt="safe">
-  <img src="https://img.shields.io/badge/segfaults-0-🚀?style=for-the-badge" alt="no segfaults">
-  <img src="https://img.shields.io/badge/dependencies-0-🦀?style=for-the-badge" alt="minimal">
-  <img src="https://img.shields.io/badge/original written in-C(🤢)-1979?style=for-the-badge" alt="C bad">
-  <img src="https://img.shields.io/badge/this written in-Rust(🦀🚀)-2025?style=for-the-badge" alt="Rust good">
+  <img src="https://img.shields.io/badge/language-Rust_🦀_🚀_🔥-orange?style=for-the-badge" alt="rust">
+  <img src="https://img.shields.io/badge/memory_safe-yes_✅_🦀-success?style=for-the-badge" alt="safe">
+  <img src="https://img.shields.io/badge/segfaults-0_🚀-success?style=for-the-badge" alt="no segfaults">
+  <img src="https://img.shields.io/badge/dependencies-0_🦀-success?style=for-the-badge" alt="minimal">
+  <img src="https://img.shields.io/badge/original_written_in-C_(🤢)_1979-critical?style=for-the-badge" alt="C bad">
+  <img src="https://img.shields.io/badge/this_written_in-Rust_(🦀🚀)_2025-orange?style=for-the-badge" alt="Rust good">
 </p>
 
 In this comprehensive guide, we'll be diving deep into **rev-rs** — a blazingly fast(🦀), memory-safe(🦀🚀), zero-dependency(🦀), cross-platform(🚀🦀), production-grade(🦀), world-class(🚀🦀), line-reversing(🦀) solution(🚀) meticulously crafted in **Rust(🦀🚀)**. Whether you're a seasoned developer or just getting started, this tool is designed to seamlessly integrate into your workflow and empower you to reverse lines like never before(🦀🚀).
