@@ -21,17 +21,17 @@ It's worth noting that the original Unix `rev` command was written in **C** in *
 
 ## 🚀 Table of Contents 🚀
 
-- [Why Rust(🦀)?](#-why-rust)
-- [Features](#-features)
-- [Why Does This Exist?](#-why-does-this-exist)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Performance Benchmarks](#-performance)
-- [FAQ](#-faq)
-- [Contributing](#-contributing)
-- [Roadmap](#-roadmap)
-- [License](#-license)
-- [Key Takeaways](#-key-takeaways)
+- [Why Rust(🦀)?](#-why-rust-)
+- [Features](#-features-)
+- [Why Does This Exist?](#-why-does-this-exist-)
+- [Installation](#-installation-)
+- [Usage](#-usage-)
+- [Performance Benchmarks](#-performance-)
+- [FAQ](#-faq-)
+- [Contributing](#-contributing-)
+- [Roadmap](#-roadmap-)
+- [License](#-license-)
+- [Key Takeaways](#-key-takeaways-)
 
 ---
 
